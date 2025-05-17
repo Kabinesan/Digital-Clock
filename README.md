@@ -8,15 +8,10 @@ A simple digital clock built using **HTML**, **CSS**, and **JavaScript**. It dis
 - Displays hours, minutes, and seconds
 - Clean and responsive UI
 - 12-hour or 24-hour format (optional toggle can be added)
-
-## 🖼️ Preview
-
-![Digital Clock Preview](https://via.placeholder.com/600x300?text=Digital+Clock+Preview)
-
+- 
 ## 🌐 Live Demo
 
-👉 [Click here to view it live](kabinesan-digital-clock.netlify.app)  
-(Replace this link with your Netlify URL once deployed)
+👉 [Click here to view it live](kabinesan-digital-clock.netlify.app) 
 
 ## 🛠️ Tech Stack
 
